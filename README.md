@@ -15,7 +15,7 @@ As part of a simulated cybersecurity analyst role, I used SQL queries to investi
 
 ## Contents
 
-- `SQL_Filtering_Activity_DenCast.pdf`: Final report with screenshots, SQL queries, and explanations
+- `Apply Filters to SQL queries - Activity.pdf`: Final report with screenshots, SQL queries, and explanations
 
 ## Key Takeaways
 
